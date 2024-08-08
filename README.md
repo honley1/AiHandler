@@ -40,6 +40,7 @@ AiHandler предоставляет пользователям возможно
 ```java
 package com.honley.aihandler;
 
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
@@ -58,7 +59,7 @@ import com.honley.aihandler.databinding.ActivityMainBinding;
 public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
-    private int defaultImageResourceId = R.drawable.add_image;
+    private final int defaultImageResourceId = R.drawable.add_image;
 
     private final ActivityResultLauncher<String> pickImageLauncher = registerForActivityResult(
             new ActivityResultContracts.GetContent(),
@@ -79,9 +80,11 @@ public class MainActivity extends AppCompatActivity {
 
         binding.button.setOnClickListener(view -> {
             if (isImageSet()) {
-                Toast.makeText(MainActivity.this, "Фотография установлена.", Toast.LENGTH_SHORT).show();
+                /*
+                Логика для оброботки фото
+                 */
             } else {
-                Toast.makeText(MainActivity.this, "Пожалуйста, установите фотографию.", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Please set a photo.", Toast.LENGTH_SHORT).show();
             }
         });
     }
