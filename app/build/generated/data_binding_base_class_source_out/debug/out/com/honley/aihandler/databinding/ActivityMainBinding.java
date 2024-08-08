@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -28,13 +29,17 @@ public final class ActivityMainBinding implements ViewBinding {
   public final ImageView image;
 
   @NonNull
+  public final ProgressBar progressBar;
+
+  @NonNull
   public final TextView text;
 
   private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull Button button,
-      @NonNull ImageView image, @NonNull TextView text) {
+      @NonNull ImageView image, @NonNull ProgressBar progressBar, @NonNull TextView text) {
     this.rootView = rootView;
     this.button = button;
     this.image = image;
+    this.progressBar = progressBar;
     this.text = text;
   }
 
@@ -77,13 +82,19 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.progress_bar;
+      ProgressBar progressBar = ViewBindings.findChildViewById(rootView, id);
+      if (progressBar == null) {
+        break missingId;
+      }
+
       id = R.id.text;
       TextView text = ViewBindings.findChildViewById(rootView, id);
       if (text == null) {
         break missingId;
       }
 
-      return new ActivityMainBinding((ConstraintLayout) rootView, button, image, text);
+      return new ActivityMainBinding((ConstraintLayout) rootView, button, image, progressBar, text);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

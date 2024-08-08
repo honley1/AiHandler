@@ -1326,6 +1326,7 @@ int color design_fab_stroke_top_inner_color 0x7f050052
 int color design_fab_stroke_top_outer_color 0x7f050053
 int color design_icon_tint 0x7f050054
 int color design_snackbar_background_color 0x7f050055
+int color dialog_button_color 0x7f050309
 int color dim_foreground_disabled_material_dark 0x7f050056
 int color dim_foreground_disabled_material_light 0x7f050057
 int color dim_foreground_material_dark 0x7f050058
@@ -2901,7 +2902,6 @@ int drawable abc_textfield_search_material 0x7f070076
 int drawable abc_vector_test 0x7f070077
 int drawable add_image 0x7f070078
 int drawable aihandler 0x7f070079
-int drawable aihandler2 0x7f07007a
 int drawable avd_hide_password 0x7f07007b
 int drawable avd_show_password 0x7f07007c
 int drawable btn_checkbox_checked_mtrl 0x7f07007d
@@ -3334,6 +3334,7 @@ int id pin 0x7f08013d
 int id position 0x7f08013e
 int id postLayout 0x7f08013f
 int id pressed 0x7f080140
+int id progress_bar 0x7f0801c7
 int id progress_circular 0x7f080141
 int id progress_horizontal 0x7f080142
 int id radio 0x7f080143
@@ -4125,6 +4126,7 @@ int style Base_Widget_MaterialComponents_TextView 0x7f10011e
 int style CardView 0x7f10011f
 int style CardView_Dark 0x7f100120
 int style CardView_Light 0x7f100121
+int style DialogButtonStyle 0x7f100467
 int style MaterialAlertDialog_Material3 0x7f100122
 int style MaterialAlertDialog_Material3_Animation 0x7f100123
 int style MaterialAlertDialog_Material3_Body_Text 0x7f100124
@@ -4238,6 +4240,7 @@ int style ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day 0x7f100
 int style ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen 0x7f100190
 int style ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year 0x7f100191
 int style ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox 0x7f100192
+int style SplashTheme 0x7f100468
 int style TextAppearance_AppCompat 0x7f100193
 int style TextAppearance_AppCompat_Body1 0x7f100194
 int style TextAppearance_AppCompat_Body2 0x7f100195

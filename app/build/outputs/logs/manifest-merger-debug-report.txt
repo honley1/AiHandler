@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.databinding:viewbinding:8.5.0] /home/honley/.gradle/caches/transforms-4/c49b0580727ad3da6e73d7f1d0a9aa50/transformed/viewbinding-8.5.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] /home/honley/.gradle/caches/transforms-4/765074ff2accb70afdbdd2bd75c37580/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/honley/.gradle/caches/transforms-4/bd67230c872efc640e53ab413820c44b/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
@@ -67,8 +67,8 @@ MERGED from [com.google.ai.client.generativeai:common:0.6.0] /home/honley/.gradl
 	android:name
 		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:7:5-25:19
-INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:7:5-25:19
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:7:5-26:19
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:7:5-26:19
 MERGED from [com.google.android.material:material:1.12.0] /home/honley/.gradle/caches/transforms-4/765074ff2accb70afdbdd2bd75c37580/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /home/honley/.gradle/caches/transforms-4/765074ff2accb70afdbdd2bd75c37580/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/honley/.gradle/caches/transforms-4/237a60171f66dd0705830143830d3fa4/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
@@ -108,21 +108,23 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /home/honley/.gradle/caches
 	android:dataExtractionRules
 		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:9:9-65
 activity#com.honley.aihandler.MainActivity
-ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:18:5-23:16
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:18:5-25:16
 	android:exported
-		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:18:44-67
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:20:9-32
+	android:theme
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:19:9-43
 	android:name
 		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:18:15-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:19:9-22:25
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:21:9-24:25
 action#android.intent.action.MAIN
-ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:20:13-65
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:22:13-65
 	android:name
-		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:20:21-62
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:22:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:21:13-73
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:23:13-73
 	android:name
-		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:21:23-70
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:23:23-70
 uses-sdk
 INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml
