@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AiHandler</string>
+    <string name="description">AiHandler Image</string>
+    <string name="text">Insert an image for processing</string>
+    <string name="button">Handle</string>
+</resources>

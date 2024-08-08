@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color teal_200
+color teal_700
+color white
+drawable add_image
+drawable aihandler
+drawable aihandler2
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id image
+id password_lin
+id text
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button
+string description
+string text
+style Theme.AiHandler
+xml backup_rules
+xml data_extraction_rules

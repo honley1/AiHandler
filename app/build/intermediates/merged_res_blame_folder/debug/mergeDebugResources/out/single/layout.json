@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.honley.aihandler.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.honley.aihandler.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/honley/.gradle/daemon/8.7/com.honley.aihandler.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/home/honley/.gradle/daemon/8.7/com.honley.aihandler.app-main-33:/layout/activity_main.xml"
+    }
+]

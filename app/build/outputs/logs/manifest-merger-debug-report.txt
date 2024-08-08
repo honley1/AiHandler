@@ -1,0 +1,301 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.5.0] /home/honley/.gradle/caches/transforms-4/0da6976d7e77a7e07294fd8bb766910e/transformed/viewbinding-8.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] /home/honley/.gradle/caches/transforms-4/bea9c7f9075ce18b1d05f58e4bde6c9e/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/honley/.gradle/caches/transforms-4/fd56aedcf3b896e9082cafe751f77cdb/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/honley/.gradle/caches/transforms-4/2785688d998a6a2cfc1098c7edf2d5ee/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/honley/.gradle/caches/transforms-4/ccdc0a98d10e32cc52fa3f11897b5a2a/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/honley/.gradle/caches/transforms-4/221fec7d7ec031433b39561d0750b74e/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/honley/.gradle/caches/transforms-4/8670cf809cd84d85cc3f52f48c1bcc84/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/honley/.gradle/caches/transforms-4/9d5fc575bc4206c5f0525e55bf3e9399/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/honley/.gradle/caches/transforms-4/f1ca138e692480b4aaaa00bec9865926/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/honley/.gradle/caches/transforms-4/3029f9be41cedc1b20f621c1801345d2/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.5.0] /home/honley/.gradle/caches/transforms-4/5b746510c61f5704035bf021f7cb720c/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/honley/.gradle/caches/transforms-4/b09a2803f46e58bf58d4cbdd31239af2/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/honley/.gradle/caches/transforms-4/01f6df9d62865747369ad68ef38a7c90/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/honley/.gradle/caches/transforms-4/c6b9dd5b56c0ff9c78b249f296c51565/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/honley/.gradle/caches/transforms-4/b2765a8e253f313b9abc940120c63a7d/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/honley/.gradle/caches/transforms-4/9158c43734813a7c3ed1ef812c1b6173/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/honley/.gradle/caches/transforms-4/16dfa15b8a7d969c9686a623b40e1f9c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/honley/.gradle/caches/transforms-4/8f9d7e2626cf3e6053cfdb4516da743f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/honley/.gradle/caches/transforms-4/3e331709503a1f523a22c6a92d53c854/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/honley/.gradle/caches/transforms-4/7d6445848600c77999cf3d6bcd30a547/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /home/honley/.gradle/caches/transforms-4/c49d9d693b759b1401a7d6f94496a721/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/honley/.gradle/caches/transforms-4/0fb5d5bedcd686252015ce26cea801bd/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/honley/.gradle/caches/transforms-4/7e66374b4e6977f2aae024d0c581d6f0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/honley/.gradle/caches/transforms-4/c1fa1efe95d01a1c6673b9596f811060/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/honley/.gradle/caches/transforms-4/68ec45c93362ab24d082d5a5b4f559ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/honley/.gradle/caches/transforms-4/fe9e965a0e4a1b15a66765493fb06827/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/honley/.gradle/caches/transforms-4/0bef22cf8832a2f38b214979a3ca7be4/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/honley/.gradle/caches/transforms-4/ff124ee7da022826fe966b20817dbdfb/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/honley/.gradle/caches/transforms-4/6e0f39ec6b8305f026bc8c80dfc249fb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/honley/.gradle/caches/transforms-4/3aae764dde84e2f21eb502cab6c21f42/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/honley/.gradle/caches/transforms-4/f88160186c3b8f1c0d726c66c6db623f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/honley/.gradle/caches/transforms-4/40d3ba924e70e214e65389decf83238f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/honley/.gradle/caches/transforms-4/c1769a370506d5a4f35b3f4b0aa463a9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/honley/.gradle/caches/transforms-4/dd66c87f08fbe1edf4643a0d13004051/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/honley/.gradle/caches/transforms-4/4b90905f5704da5091b3356a8b459b93/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/honley/.gradle/caches/transforms-4/0d56a2430cc21eaaff0a01d15c3738a9/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/honley/.gradle/caches/transforms-4/814211ec5722e8727a21e52729ca3a76/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/honley/.gradle/caches/transforms-4/3eedad35ad2c04453b4d39c0f5dc7178/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/honley/.gradle/caches/transforms-4/eeb04baa214b8c270ae26f987a10df71/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:7:5-25:19
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.google.android.material:material:1.12.0] /home/honley/.gradle/caches/transforms-4/bea9c7f9075ce18b1d05f58e4bde6c9e/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/honley/.gradle/caches/transforms-4/bea9c7f9075ce18b1d05f58e4bde6c9e/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/honley/.gradle/caches/transforms-4/2785688d998a6a2cfc1098c7edf2d5ee/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/honley/.gradle/caches/transforms-4/2785688d998a6a2cfc1098c7edf2d5ee/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/honley/.gradle/caches/transforms-4/16dfa15b8a7d969c9686a623b40e1f9c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/honley/.gradle/caches/transforms-4/16dfa15b8a7d969c9686a623b40e1f9c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/honley/.gradle/caches/transforms-4/40d3ba924e70e214e65389decf83238f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/honley/.gradle/caches/transforms-4/40d3ba924e70e214e65389decf83238f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/honley/.gradle/caches/transforms-4/c1769a370506d5a4f35b3f4b0aa463a9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/honley/.gradle/caches/transforms-4/c1769a370506d5a4f35b3f4b0aa463a9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:13:9-48
+	tools:targetApi
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:15:9-47
+	android:dataExtractionRules
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:9:9-65
+activity#com.honley.aihandler.MainActivity
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:18:5-23:16
+	android:exported
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:18:44-67
+	android:name
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:18:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml
+INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.5.0] /home/honley/.gradle/caches/transforms-4/0da6976d7e77a7e07294fd8bb766910e/transformed/viewbinding-8.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.0] /home/honley/.gradle/caches/transforms-4/0da6976d7e77a7e07294fd8bb766910e/transformed/viewbinding-8.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/honley/.gradle/caches/transforms-4/bea9c7f9075ce18b1d05f58e4bde6c9e/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/honley/.gradle/caches/transforms-4/bea9c7f9075ce18b1d05f58e4bde6c9e/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/honley/.gradle/caches/transforms-4/fd56aedcf3b896e9082cafe751f77cdb/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/honley/.gradle/caches/transforms-4/fd56aedcf3b896e9082cafe751f77cdb/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/honley/.gradle/caches/transforms-4/2785688d998a6a2cfc1098c7edf2d5ee/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/honley/.gradle/caches/transforms-4/2785688d998a6a2cfc1098c7edf2d5ee/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/honley/.gradle/caches/transforms-4/ccdc0a98d10e32cc52fa3f11897b5a2a/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/honley/.gradle/caches/transforms-4/ccdc0a98d10e32cc52fa3f11897b5a2a/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/honley/.gradle/caches/transforms-4/221fec7d7ec031433b39561d0750b74e/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/honley/.gradle/caches/transforms-4/221fec7d7ec031433b39561d0750b74e/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/honley/.gradle/caches/transforms-4/8670cf809cd84d85cc3f52f48c1bcc84/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/honley/.gradle/caches/transforms-4/8670cf809cd84d85cc3f52f48c1bcc84/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/honley/.gradle/caches/transforms-4/9d5fc575bc4206c5f0525e55bf3e9399/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/honley/.gradle/caches/transforms-4/9d5fc575bc4206c5f0525e55bf3e9399/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/honley/.gradle/caches/transforms-4/f1ca138e692480b4aaaa00bec9865926/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/honley/.gradle/caches/transforms-4/f1ca138e692480b4aaaa00bec9865926/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/honley/.gradle/caches/transforms-4/3029f9be41cedc1b20f621c1801345d2/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/honley/.gradle/caches/transforms-4/3029f9be41cedc1b20f621c1801345d2/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/honley/.gradle/caches/transforms-4/5b746510c61f5704035bf021f7cb720c/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/honley/.gradle/caches/transforms-4/5b746510c61f5704035bf021f7cb720c/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/honley/.gradle/caches/transforms-4/b09a2803f46e58bf58d4cbdd31239af2/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/honley/.gradle/caches/transforms-4/b09a2803f46e58bf58d4cbdd31239af2/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/honley/.gradle/caches/transforms-4/01f6df9d62865747369ad68ef38a7c90/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/honley/.gradle/caches/transforms-4/01f6df9d62865747369ad68ef38a7c90/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/honley/.gradle/caches/transforms-4/c6b9dd5b56c0ff9c78b249f296c51565/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/honley/.gradle/caches/transforms-4/c6b9dd5b56c0ff9c78b249f296c51565/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/honley/.gradle/caches/transforms-4/b2765a8e253f313b9abc940120c63a7d/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/honley/.gradle/caches/transforms-4/b2765a8e253f313b9abc940120c63a7d/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/honley/.gradle/caches/transforms-4/9158c43734813a7c3ed1ef812c1b6173/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/honley/.gradle/caches/transforms-4/9158c43734813a7c3ed1ef812c1b6173/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/honley/.gradle/caches/transforms-4/16dfa15b8a7d969c9686a623b40e1f9c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/honley/.gradle/caches/transforms-4/16dfa15b8a7d969c9686a623b40e1f9c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/honley/.gradle/caches/transforms-4/8f9d7e2626cf3e6053cfdb4516da743f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/honley/.gradle/caches/transforms-4/8f9d7e2626cf3e6053cfdb4516da743f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/honley/.gradle/caches/transforms-4/3e331709503a1f523a22c6a92d53c854/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/honley/.gradle/caches/transforms-4/3e331709503a1f523a22c6a92d53c854/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/honley/.gradle/caches/transforms-4/7d6445848600c77999cf3d6bcd30a547/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/honley/.gradle/caches/transforms-4/7d6445848600c77999cf3d6bcd30a547/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/honley/.gradle/caches/transforms-4/c49d9d693b759b1401a7d6f94496a721/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/honley/.gradle/caches/transforms-4/c49d9d693b759b1401a7d6f94496a721/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/honley/.gradle/caches/transforms-4/0fb5d5bedcd686252015ce26cea801bd/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/honley/.gradle/caches/transforms-4/0fb5d5bedcd686252015ce26cea801bd/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/honley/.gradle/caches/transforms-4/7e66374b4e6977f2aae024d0c581d6f0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/honley/.gradle/caches/transforms-4/7e66374b4e6977f2aae024d0c581d6f0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/honley/.gradle/caches/transforms-4/c1fa1efe95d01a1c6673b9596f811060/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/honley/.gradle/caches/transforms-4/c1fa1efe95d01a1c6673b9596f811060/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/honley/.gradle/caches/transforms-4/68ec45c93362ab24d082d5a5b4f559ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/honley/.gradle/caches/transforms-4/68ec45c93362ab24d082d5a5b4f559ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/honley/.gradle/caches/transforms-4/fe9e965a0e4a1b15a66765493fb06827/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/honley/.gradle/caches/transforms-4/fe9e965a0e4a1b15a66765493fb06827/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/honley/.gradle/caches/transforms-4/0bef22cf8832a2f38b214979a3ca7be4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/honley/.gradle/caches/transforms-4/0bef22cf8832a2f38b214979a3ca7be4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/honley/.gradle/caches/transforms-4/ff124ee7da022826fe966b20817dbdfb/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/honley/.gradle/caches/transforms-4/ff124ee7da022826fe966b20817dbdfb/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/honley/.gradle/caches/transforms-4/6e0f39ec6b8305f026bc8c80dfc249fb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/honley/.gradle/caches/transforms-4/6e0f39ec6b8305f026bc8c80dfc249fb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/honley/.gradle/caches/transforms-4/3aae764dde84e2f21eb502cab6c21f42/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/honley/.gradle/caches/transforms-4/3aae764dde84e2f21eb502cab6c21f42/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/honley/.gradle/caches/transforms-4/f88160186c3b8f1c0d726c66c6db623f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/honley/.gradle/caches/transforms-4/f88160186c3b8f1c0d726c66c6db623f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/honley/.gradle/caches/transforms-4/40d3ba924e70e214e65389decf83238f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/honley/.gradle/caches/transforms-4/40d3ba924e70e214e65389decf83238f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/honley/.gradle/caches/transforms-4/c1769a370506d5a4f35b3f4b0aa463a9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/honley/.gradle/caches/transforms-4/c1769a370506d5a4f35b3f4b0aa463a9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/honley/.gradle/caches/transforms-4/dd66c87f08fbe1edf4643a0d13004051/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/honley/.gradle/caches/transforms-4/dd66c87f08fbe1edf4643a0d13004051/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/honley/.gradle/caches/transforms-4/4b90905f5704da5091b3356a8b459b93/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/honley/.gradle/caches/transforms-4/4b90905f5704da5091b3356a8b459b93/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/honley/.gradle/caches/transforms-4/0d56a2430cc21eaaff0a01d15c3738a9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/honley/.gradle/caches/transforms-4/0d56a2430cc21eaaff0a01d15c3738a9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/honley/.gradle/caches/transforms-4/814211ec5722e8727a21e52729ca3a76/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/honley/.gradle/caches/transforms-4/814211ec5722e8727a21e52729ca3a76/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/honley/.gradle/caches/transforms-4/3eedad35ad2c04453b4d39c0f5dc7178/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/honley/.gradle/caches/transforms-4/3eedad35ad2c04453b4d39c0f5dc7178/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/honley/.gradle/caches/transforms-4/eeb04baa214b8c270ae26f987a10df71/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/honley/.gradle/caches/transforms-4/eeb04baa214b8c270ae26f987a10df71/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/honley/programs_honley/projects_java/AiHandler/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/honley/.gradle/caches/transforms-4/16dfa15b8a7d969c9686a623b40e1f9c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/honley/.gradle/caches/transforms-4/16dfa15b8a7d969c9686a623b40e1f9c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/honley/.gradle/caches/transforms-4/c1769a370506d5a4f35b3f4b0aa463a9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/honley/.gradle/caches/transforms-4/c1769a370506d5a4f35b3f4b0aa463a9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/honley/.gradle/caches/transforms-4/78b7b086681477ade07c7f09cccd7cf6/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/honley/.gradle/caches/transforms-4/16dfa15b8a7d969c9686a623b40e1f9c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/honley/.gradle/caches/transforms-4/16dfa15b8a7d969c9686a623b40e1f9c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/honley/.gradle/caches/transforms-4/16dfa15b8a7d969c9686a623b40e1f9c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.honley.aihandler.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.honley.aihandler.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/honley/.gradle/caches/transforms-4/54db857bcdb0999d019262b437660a3b/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/honley/.gradle/caches/transforms-4/f9c1bcc0077324f21f20985eea47882d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
